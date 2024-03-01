@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-
+ 
 void operacionesFiguras(string forma){
 
 
