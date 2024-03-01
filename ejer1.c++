@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// primer ejercico basic 
+// primer ejercico basic  
 
 //sum de 2 numeros
 
