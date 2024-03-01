@@ -5,7 +5,7 @@ La perrita de Don Pancho acaba de dar a luz
  hijos. Los cachorros que no pueda repartir equitativamente entre ellos también se los quedará él. ¿Con cúantos cachorros se quedará Don Pancho?
 */
 
-#include <iostream>
+#include <iostream> 
 
 using namespace std;
 
