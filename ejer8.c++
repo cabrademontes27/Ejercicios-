@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-// La hora en un planeta lejano  
+// La hora en un planeta lejano
 int main(){
 
     int S,M,H,D;
